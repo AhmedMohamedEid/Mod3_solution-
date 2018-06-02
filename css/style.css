@@ -1,0 +1,38 @@
+
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/* Bootstrap Edit  */
+.navbar-default .navbar-nav>li>a{
+ 	color: #61122f;
+    font-size: 20px;
+}
+
+
+.navbar {
+	border-radius: 0;
+    background-color: #f6b319;
+    border: 0;
+}
+.logo a {
+	color: #557c3e !important;
+    font-size: 30px;
+    font-weight: bold;
+}
+.collapse {
+	float: right !important;
+}
+
+/* Section */
+section h1 {
+	margin: 50px auto;
+}
+
+section article {
+	border: 1px solid #fff;
+    padding: 10px;
+}
